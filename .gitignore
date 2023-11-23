@@ -1,0 +1,8 @@
+# Ignorar la base de datos SQLite
+db.sqlite3
+
+# Ignorar el directorio del entorno virtual (ej. venv, virtualenv, etc.)
+venv
+
+# Ignorar archivos generados automáticamente por Python
+__pycache__
